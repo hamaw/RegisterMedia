@@ -1,0 +1,11 @@
+## Interface: 30100
+## Title: RegisterMedia
+## Notes: Register Media file of LibSharedMedia data.
+## Author: Unkek
+## OptionalDeps: LibStub, LibSharedMedia-3.0
+## X-Embeds: LibStub, LibSharedMedia-3.0
+## Version: 1.0
+
+embeds.xml
+
+RegisterMedia.lua
